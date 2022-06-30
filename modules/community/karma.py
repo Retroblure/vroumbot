@@ -12,7 +12,7 @@ from .helpers import get_user
 
 angrypos_commands = ["angryplus", "angrypos", "angrybravo", "angry"]
 pos_commands = ["plus", "pos", "bravo"]
-neg_commands = ["moins", "minus", "min", "neg", "non"]
+neg_commands = ["moins", "minus", "min", "neg", "non", "cringe"]
 meh_commands = ["meh"]
 
 
